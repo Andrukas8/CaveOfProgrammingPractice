@@ -1,6 +1,7 @@
 python -m venv venv #installs new virtual environment called venv in active folder
 
-.\venv\Scripts\activate.ps1 #activates the virtual environment
+#activates the virtual environment
+.\venv\Scripts\activate.ps1
 
 deactivate #deactivates the virtual environment
 
